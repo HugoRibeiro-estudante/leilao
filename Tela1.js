@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   finalizarLeilao: { 
-    fontSize: 16,
+    fontSize: 16, 
     color: 'blue',
     textDecorationLine: 'underline',
   },
